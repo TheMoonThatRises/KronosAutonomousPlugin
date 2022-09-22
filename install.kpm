@@ -1,0 +1,6 @@
+{
+  "plugin": "autonomous",
+  "sources": ["autonreader.hpp"],
+  "resources": ["autons.hpp"],
+  "includes": ["fstream", "iterator", "map", "vector"]
+}
